@@ -1,0 +1,23 @@
+SELECT 
+    CONVERT(VARBINARY(MAX), 
+    '------------------------------------------' + CHAR(10) +
+    '-- Dirceu Resende' + CHAR(10) + 
+    '------------------------------------------' + CHAR(10) +
+    + CHAR(10) +
+    '-> Oficial de Data no Caribbean Development Bank' + CHAR(10) +
+    '-> Instrutor e Consultor de Power BI no Planilheiros' + CHAR(10) +
+    '-> Instrutor do cursos.powertuning.com.br' + CHAR(10) +
+    '-> Autor do blog dirceuresende.com' + CHAR(10) +
+    '-> Microsoft MVP Data Platform desde 2018' + CHAR(10) +
+    '-> Microsoft MCP, MTA, MCSA, MCT e MCSE' + CHAR(10) +
+    '-> Organizador do PASS Local Group SQL Server ES' + CHAR(10) +
+    '-> Organizador do Happy Hour com Dados' + CHAR(10) +
+    '-> Escritor do iMasters' + CHAR(10) +
+    '-> Escritor do codigosimples.net' + CHAR(10) +
+    '-> Hobbies: Videogame, Netflix, Futebol, UFC, Animes, YouTube' + CHAR(10) + CHAR(10) +
+    '------------------------------------------' + CHAR(10) + CHAR(10) +
+    'Github: https://github.com/dirceuresende' + CHAR(10) +
+    'Telegram: @dirceuresende' + CHAR(10) +
+    'Skype: @dirceuresende' + CHAR(10) +
+    'LinkedIn: /in/dirceuresende/' + CHAR(10)
+)

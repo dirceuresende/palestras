@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Root>
+   <Cliente Nome="Cliente Teste 1" Idade="29" CPF="11111111111" Email="cliente1@email.com" Celular="99999999999">
+     <Endereco Cidade="Vitoria" Estado="ES" Pais="Brasil" CEP="2920000">
+       <Telefone Fixo="888888888888" Quintal="Sim" Quadra="Sim" />
+     </Endereco>
+     <Endereco Cidade="Vila Velha" Estado="ES" Pais="Brasil" CEP="2900000">
+       <Telefone Fixo="777777777777" Piscina="Sim" />
+     </Endereco>
+	 <Endereco Cidade="Serra" Estado="ES" Pais="Brasil" CEP="2970000" />
+   </Cliente>
+   <Cliente Nome="Cliente Teste 2" Idade="30" CPF="222222222222" Email="cliente2@email.com.br">
+     <Endereco Cidade="Campos dos Goytacazes" Estado="RJ" Pais="Brasil" CEP="2825000">
+       <Telefone Fixo="33333333333"/>
+     </Endereco>
+   </Cliente>
+</Root>

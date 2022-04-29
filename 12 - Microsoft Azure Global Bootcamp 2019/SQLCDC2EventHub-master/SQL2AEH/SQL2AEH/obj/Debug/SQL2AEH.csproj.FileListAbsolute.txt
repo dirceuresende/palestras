@@ -1,0 +1,48 @@
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.exe.config
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.exe
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.pdb
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Hyak.Common.dll
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Hyak.Common.xml
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.Azure.Common.xml
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csprojAssemblyReference.cache
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csproj.CoreCompileInputs.cache
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csproj.CopyComplete
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.exe
+C:\Users\dirceu\Desktop\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.pdb
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.exe.config
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.exe
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.pdb
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Hyak.Common.dll
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.Azure.Common.dll
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.ServiceBus.dll
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Hyak.Common.xml
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.Azure.Common.xml
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.ServiceBus.xml
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csprojAssemblyReference.cache
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csproj.CoreCompileInputs.cache
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csproj.CopyComplete
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.exe
+C:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.pdb
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.exe.config
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.exe
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\SQL2AEH.pdb
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Hyak.Common.dll
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.Azure.Common.dll
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.ServiceBus.dll
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Hyak.Common.xml
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.Azure.Common.xml
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Microsoft.ServiceBus.xml
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csprojAssemblyReference.cache
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csproj.CoreCompileInputs.cache
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.csproj.CopyComplete
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.exe
+D:\Dropbox\Data Platform\Palestras\12 - Microsoft Azure Global Bootcamp 2019\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Debug\SQL2AEH.pdb

@@ -1,0 +1,16 @@
+SELECT
+ SQL2AEH_$start_lsn_string, 
+ SQL2AEH_$seqval_string, 
+ SQL2AEH_$update_mask_string, 
+ __$operation, 
+ Id_Pedido,
+ Dt_Pedido,
+ Quantidade,
+ Valor,
+ Total_Pedido
+Into
+PowerBI
+FROM
+ eventHub
+WHERE SQL2AEH_TableName = 'dbo.Vendas'
+ 

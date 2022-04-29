@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<Escola>
+   <Turma Nome="Turma 1" Serie="1">
+     <Aluno Apostolo="1" Traidor="0" Nota="7">Joao</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="7.5">Marcos</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="8">Mateus</Aluno>
+	 <Aluno Apostolo="0" Traidor="0" Nota="10">Paulo</Aluno>
+   </Turma>
+   <Turma Nome="Turma 2" Serie="2">
+     <Aluno Apostolo="1" Traidor="0" Nota="6.1">Andre</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="5.9">Simao</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="7.3">Pedro</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="7.1">Bartolomeu</Aluno>
+	 <Aluno Apostolo="1" Traidor="1" Nota="0">Judas</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="6.4">Tiago</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="6.7">Felipe</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="6.3">Tome</Aluno>
+	 <Aluno Apostolo="1" Traidor="0" Nota="6.5">Tadeu</Aluno>
+   </Turma>
+</Escola>
