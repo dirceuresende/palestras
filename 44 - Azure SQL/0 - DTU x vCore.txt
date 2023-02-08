@@ -1,0 +1,2 @@
+
+CREATE DATABASE [dirceu-copia] AS COPY OF [dirceu]

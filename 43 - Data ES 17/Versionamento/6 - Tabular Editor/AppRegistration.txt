@@ -1,0 +1,8 @@
+URL:
+powerbi://api.powerbi.com/v1.0/myorg/Workspace Premium
+
+User:
+app:appId@tenantId
+
+Secret:
+SecretKey
