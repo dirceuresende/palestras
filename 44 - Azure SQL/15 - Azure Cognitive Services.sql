@@ -23,7 +23,7 @@ BEGIN
 END;
 
 
-SET @Query = 'CREATE DATABASE SCOPED CREDENTIAL [' + @URLQuery + '] WITH IDENTITY = ''HTTPEndpointHeaders'', SECRET = ''{"Ocp-Apim-Subscription-Key": "05a9da299b3d487ba68e8fe3d5fa0d71"}'''
+SET @Query = 'CREATE DATABASE SCOPED CREDENTIAL [' + @URLQuery + '] WITH IDENTITY = ''HTTPEndpointHeaders'', SECRET = ''{"Ocp-Apim-Subscription-Key": "YOUR_KEY_HERE"}'''
 EXEC(@Query)
 
 
